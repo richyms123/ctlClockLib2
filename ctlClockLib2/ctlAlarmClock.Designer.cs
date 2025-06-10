@@ -35,7 +35,7 @@
             // lblAlarm
             // 
             lblAlarm.AutoSize = true;
-            lblAlarm.Location = new Point(211, 196);
+            lblAlarm.Location = new Point(203, 164);
             lblAlarm.Name = "lblAlarm";
             lblAlarm.Size = new Size(57, 20);
             lblAlarm.TabIndex = 1;
@@ -45,7 +45,7 @@
             // 
             // btnAlarmOff
             // 
-            btnAlarmOff.Location = new Point(438, 216);
+            btnAlarmOff.Location = new Point(403, 164);
             btnAlarmOff.Name = "btnAlarmOff";
             btnAlarmOff.Size = new Size(94, 29);
             btnAlarmOff.TabIndex = 2;
